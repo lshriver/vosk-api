@@ -39,6 +39,7 @@ python/test/ref
 python/test/result.txt
 python/test/wav.scp
 /venv
+/.venv
 
 # Java
 *.class
